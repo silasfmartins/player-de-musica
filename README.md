@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Desafios HTML" height="80" title="Plant Manager" src="./image.png" />
+  <img alt="Player de Música" height="80" title="Player de Música" src="./image.png" />
 </h1>
 
 <p align="center">
@@ -16,11 +16,15 @@ Aplicação que mostra uma interface simples de um player de música.
 ## ✨ Tecnologias
 
 -   [ x ] HTML 5
--   [ x ] TailwindCss
+-   [ x ] Tailwind CSS
 
 ## 🆚 Versionamento / Versioning
 
 Esse projeto não possui um sistema de versionamento.
+
+## 🆙 Projeto no ar
+
+É possível acessar a aplicação através da URL: https://silasfmartins.github.io/player-de-musica/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
