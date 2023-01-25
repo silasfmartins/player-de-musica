@@ -16,7 +16,7 @@ Aplicação que mostra uma interface simples de um player de música.
 ## ✨ Tecnologias
 
 -   [ x ] HTML 5
--   [ x ] Tailwind CSS
+-   [ x ] CSS
 
 ## 🆚 Versionamento / Versioning
 
